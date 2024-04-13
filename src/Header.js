@@ -33,7 +33,7 @@ function Header() {
                     <ShoppingCartIcon/>
                     <span className='header__optionLineTwo header__basketCount'>0</span>
                 </div>
-                {/* 54:17 */}
+                
             </div>
         </div>
     )
