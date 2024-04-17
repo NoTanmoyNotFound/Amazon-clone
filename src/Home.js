@@ -18,16 +18,21 @@ function Home() {
                     />
                     <Product
                         id ="22345678"
-                        title={"Steve Jobs by Walter Isaacson[Hardcover]"}
-                        price={499}
-                        image={"https://m.media-amazon.com/images/I/51iau+M4IBL._AC_UY218_.jpg"}
-                        rating={4} 
+                        title={"Amazon Echo Dot (5th Gen) | Smart speaker with Bigger sound, Motion Detection, Temperature Sensor, Alexa and Bluetooth| Blue "}
+                        price={5499}
+                        image={"https://m.media-amazon.com/images/I/81lGxS2ZisL._AC_SY200_.jpg"}
+                        rating={5} 
                     />
 
 
                 </div>
                 <div className="home__row">
-                    <Product />
+                    <Product
+                    id ="22345678"
+                        title={"SteelSeries Apex Pro Mini Mechanical Gaming Keyboard – World’s Fastest Keyboard – Adjustable Actuation – Compact 60% Form Factor – RGB – PBT Keycaps – USB-C"}
+                        price={5499}
+                        image={"https://images-eu.ssl-images-amazon.com/images/I/71iUUN3rSZL._AC_UL160_SR160,160_.jpg"}
+                        rating={5} />
                     <Product />
                     <Product />
                 </div>
