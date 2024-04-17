@@ -39,3 +39,6 @@
     height: 100px;
     margin-bottom: 15px;
  }
+ .proudct__rating{
+   display: flex;
+ }
