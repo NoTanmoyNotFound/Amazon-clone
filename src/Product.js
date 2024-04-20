@@ -1,5 +1,7 @@
 import React from 'react'
 import "./Product.css"
+import { Height } from '@mui/icons-material'
+import { height } from '@mui/system'
 
 function Product({ title, image, price, rating }) {
     return (
@@ -18,7 +20,7 @@ function Product({ title, image, price, rating }) {
                 </div>
 
             </div>
-            <img src={image} alt="" />
+            <img  src={image}  />
             <button>Add to Cart</button>
         </div>
     )

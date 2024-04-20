@@ -29,11 +29,17 @@ function Home() {
                 <div className="home__row">
                     <Product
                     id ="22345678"
-                        title={"SteelSeries Apex Pro Mini Mechanical Gaming Keyboard – World’s Fastest Keyboard – Adjustable Actuation – Compact 60% Form Factor – RGB – PBT Keycaps – USB-C"}
+                        title={"SteelSeries Apex Pro Mini Mechanical Gaming Keyboard "}
                         price={5499}
                         image={"https://images-eu.ssl-images-amazon.com/images/I/71iUUN3rSZL._AC_UL160_SR160,160_.jpg"}
                         rating={5} />
-                    <Product />
+                    <Product
+                    id ="22345658"
+                        title={"SteelSeries Apex Pro Mini Mechanical Gaming Keyboard "}
+                        price={5499}
+                        image={"https://m.media-amazon.com/images/I/816uleHZdTL._AC_SY400_.jpg"}
+                        rating={5} />
+                    
                     <Product />
                 </div>
                 <div className="home__row">
